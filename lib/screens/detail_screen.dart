@@ -1,4 +1,4 @@
-// Author: Takahiro Watanabe
+// Author: Taka Watanabe
 // Program Name: CS492 (Winter 2020) Project 5: Wasteagram / detail_screen.dart file
 // Description: This file implements the route to display the details of a single food waste post.
 // Source 1: Lecture videos from Week 9 and Week 10 modules in CS492 (Winter 2020)
