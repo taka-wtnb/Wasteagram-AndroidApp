@@ -1,4 +1,4 @@
-// Author: Takahiro Watanabe
+// Author: Taka Watanabe
 // Program Name: CS492 (Winter 2020) Project 5: Wasteagram / main.dart file
 // Description: This file implements the main function, which is an entry point 
 //              of this application
