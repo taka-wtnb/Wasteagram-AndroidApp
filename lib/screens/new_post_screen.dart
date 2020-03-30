@@ -1,4 +1,4 @@
-// Author: Takahiro Watanabe
+// Author: Taka Watanabe
 // Program Name: CS492 (Winter 2020) Project 5: Wasteagram / new_post_screen.dart file
 // Description: This file implements the route to display a form to enter and upload a new post. 
 // Source: Lecture videos from Week 9 and Week 10 modules in CS492 (Winter 2020)
