@@ -1,4 +1,4 @@
-// Author: Takahiro Watanabe
+// Author: Taka Watanabe
 // Program Name: CS492 (Winter 2020) Project 5: Wasteagram / post_form.dart file
 // Description: This file implements a form for a new food waste post. 
 // Source 1: Lecture videos from Week 9 and Week 10 modules in CS492 (Winter 2020)
