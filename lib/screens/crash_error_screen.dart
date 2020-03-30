@@ -1,4 +1,4 @@
-// Author: Takahiro Watanabe
+// Author: Taka Watanabe
 // Program Name: CS492 (Winter 2020) Project 5: Wasteagram / crash_error_screen.dart file
 // Description: This file implements the route to cause the app crashed.
 //              It is only used to report an error to Sentry for the project's extra credit purpose. 
