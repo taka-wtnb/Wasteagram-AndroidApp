@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "714941040763",
+    "firebase_url": "https://cs492project5.firebaseio.com",
+    "project_id": "cs492project5",
+    "storage_bucket": "cs492project5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714941040763:android:059e02a962a7340e27fade",
+        "android_client_info": {
+          "package_name": "edu.oregonstate.watantak.wasteagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "714941040763-erfus6tljnm1932aev3iqijujn3v86nm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHIn5lsRGcJ2sd4k5p_KyY7Jurfri5s84"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "714941040763-erfus6tljnm1932aev3iqijujn3v86nm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
