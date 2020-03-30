@@ -1,4 +1,4 @@
-// Author: Takahiro Watanabe
+// Author: Taka Watanabe
 // Program Name: CS492 (Winter 2020) Project 5: Wasteagram / food_waste_post_test.dart file
 // Description: This file implements three unit tests that test the model class
 // Source: Lecture videos from Week 9 and Week 10 modules in CS492 (Winter 2020)
