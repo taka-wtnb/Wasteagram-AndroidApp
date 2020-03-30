@@ -1,4 +1,4 @@
-// Author: Takahiro Watanabe
+// Author: Taka Watanabe
 // Program Name: CS492 (Winter 2020) Project 5: Wasteagram / app_test.dart file
 // Description: This file implements two integration tests to test this app's particular UX flows
 // Source: Lecture videos from Week 9 and Week 10 modules in CS492 (Winter 2020)
