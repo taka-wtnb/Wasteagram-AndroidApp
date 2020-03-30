@@ -1,4 +1,4 @@
-// Author: Takahiro Watanabe
+// Author: Taka Watanabe
 // Program Name: CS492 (Winter 2020) Project 5: Wasteagram / food_waste_post.dart file
 // Description: This file implements the FoodWastePost class, which is a model to
 //              represent a post of the wasted food
