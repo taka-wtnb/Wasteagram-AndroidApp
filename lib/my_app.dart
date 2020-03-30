@@ -1,4 +1,4 @@
-// Author: Takahiro Watanabe
+// Author: Taka Watanabe
 // Program Name: CS492 (Winter 2020) Project 5: Wasteagram / my_app.dart file
 // Description: This file implements the MyApp widget, which is a root widget 
 //              of this application
