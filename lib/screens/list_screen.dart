@@ -1,4 +1,4 @@
-// Author: Takahiro Watanabe
+// Author: Taka Watanabe
 // Program Name: CS492 (Winter 2020) Project 5: Wasteagram / list_screen.dart file
 // Description: This file implements the route to display the list of food waste posts.
 //              If there is no post, it shows the circular progress indicator. 
