@@ -1,4 +1,4 @@
-// Author: Takahiro Watanabe
+// Author: Taka Watanabe
 // Program Name: CS492 (Winter 2020) Project 5: Wasteagram / custom_sized_box.dart file
 // Description: This file implements a utility function to provide a sized box for spacing. 
 
