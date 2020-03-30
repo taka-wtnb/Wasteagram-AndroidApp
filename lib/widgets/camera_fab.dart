@@ -1,4 +1,4 @@
-// Author: Takahiro Watanabe
+// Author: Taka Watanabe
 // Program Name: CS492 (Winter 2020) Project 5: Wasteagram / camera_fab.dart file
 // Description: This file implements the image picker to select a photo of the food.
 //              It also get the URL of the image form Firebase Storage 
